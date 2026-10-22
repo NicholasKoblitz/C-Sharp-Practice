@@ -1,3 +1,7 @@
 <Solution>
-  <Project Path="numberWizard/numberWizard.csproj" />
+  <Folder Name="/tests/">
+    <Project Path="tests/TodoManager.Tests/TodoManager.Tests.csproj" />
+  </Folder>
+  <Project Path="numberWizard/numberWizard.csproj" Id="c633e08e-705a-4153-a7ae-5bded664c07c" />
+  <Project Path="Todo Manager/Todo Manager.csproj" Id="35db59f7-da41-48db-b87f-eaa40c60c8e8" />
 </Solution>
